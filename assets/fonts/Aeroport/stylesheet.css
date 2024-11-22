@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Aeroport';
+    src: url('Aeroport-Italic.woff2') format('woff2'),
+        url('Aeroport-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeroport';
+    src: url('Aeroport-BoldItalic.woff2') format('woff2'),
+        url('Aeroport-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeroport';
+    src: url('Aeroport-Bold.woff2') format('woff2'),
+        url('Aeroport-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeroport';
+    src: url('Aeroport-LightItalic.woff2') format('woff2'),
+        url('Aeroport-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeroport';
+    src: url('Aeroport-Light.woff2') format('woff2'),
+        url('Aeroport-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeroport';
+    src: url('Aeroport-MediumItalic.woff2') format('woff2'),
+        url('Aeroport-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeroport';
+    src: url('Aeroport-Medium.woff2') format('woff2'),
+        url('Aeroport-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeroport';
+    src: url('Aeroport.woff2') format('woff2'),
+        url('Aeroport.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeroport Mono';
+    src: url('AeroportMono.woff2') format('woff2'),
+        url('AeroportMono.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
